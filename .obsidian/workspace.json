@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "2c9469ae81875c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cba5905a5a0713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80676aa78f6ebc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Linux/access controll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "access controll"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bb7ccae8ae532f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f6d73407b211dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff562f0ccc2a8b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9c55e4bb6a3d7ddf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6ae7efb11967ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "920864cb262d2824",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8154f012aa1e442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d1b4501145de65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "secondBrain/Linux/access controll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for access controll"
+            }
+          },
+          {
+            "id": "166bc604dc9c1122",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "secondBrain/Linux/access controll.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from access controll"
+            }
+          },
+          {
+            "id": "69fa59ccf3bdb15c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d05c8358ee308dc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "secondBrain/Linux/access controll.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of access controll"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80676aa78f6ebc5e",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "secondBrain/Linux/access controll.md",
+    "secondBrain/Linux",
+    "secondBrain/GENAI/Prompts",
+    "Untitled 1",
+    "Untitled",
+    "secondBrain/GENAI",
+    "secondBrain/2024-11-26.md",
+    "secondBrain/test.canvas",
+    "secondBrain/Welcome.md",
+    "secondBrain/test.md",
+    "secondBrain/git test.md"
+  ]
+}
