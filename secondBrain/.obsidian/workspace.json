@@ -35,8 +35,7 @@
               "title": "test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bad1a78aa4934b14",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -143,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -170,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -204,11 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1da363a51c2b81",
+  "active": "66faa633288c8d03",
   "lastOpenFiles": [
-    "Welcome.md",
     "test.md",
     "test.canvas",
+    "Welcome.md",
     "2024-11-26.md"
   ]
 }
