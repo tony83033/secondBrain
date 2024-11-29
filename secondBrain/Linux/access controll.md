@@ -98,6 +98,16 @@ command -> chmod g+s <filename>  or chmod g+s <filename>
 
 ACL (ACCESS CONTROL LIST)
 
+getfacl (get file clt)
+
+setfacl (set file acl)
+
+setfile -m u:harry:xr /dir
+
+We can give specific permission to every user using ACL
+
+
+=======================================================
 
 
 
