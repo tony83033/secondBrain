@@ -102,9 +102,35 @@ getfacl (get file clt)
 
 setfacl (set file acl)
 
-setfile -m u:harry:xr /dir
+setfile -m u:harry:xr /dir  -> -m = modify
+
+setfacl -m g:lwgroup /dir -> give specific permission to group
 
 We can give specific permission to every user using ACL
+
+remove all the permission of acl
+setfacl -b /dir -> It will remove all the acl
+
+Note -> If you want to apply acl for all user we can use(::)
+setfacl -m u:: -> this command will give (rwx) to all the user
+
+setfacl -m g:: -> same for group also give (rwx) to all the group
+
+
+getfacl --omit-heder /dir -> it mostly user in automation, when we don't want headers in output
+
+Mask in ACL
+
+setfacl -m m::x /dir  -> we are limiting all the user to only (x ) permission , however then may have rw or rwx permission but because of mask they all ther limited to only (x) permission
+
+Defult permission in ACL
+
+using default , all the file will inhirent permission from parent folder 
+
+setfacl -m d:u:vimal /lwdata
+
+
+
 
 
 =======================================================
