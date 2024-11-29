@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "access controll"
             }
+          },
+          {
+            "id": "6a7c816bb67d3310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Linux/access controll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "access controll"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,10 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80676aa78f6ebc5e",
+  "active": "6a7c816bb67d3310",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "random resource.md",
     "secondBrain/Linux/access controll.md",
+    "Untitled.canvas",
     "secondBrain/Linux",
     "secondBrain/GENAI/Prompts",
     "Untitled 1",
