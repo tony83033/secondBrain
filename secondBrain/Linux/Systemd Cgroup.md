@@ -42,6 +42,35 @@ systemctl edit httpd.service
 systemclt show httpd.service -> show all the cgroup implemented in program
 
 
+/etc/systemd/system /
+
+make a folder -> httpd.servce.d 
+and make a file with conf extencen
+examle 
+
+vim vimal.conf
+[Service]
+MemoryLimit=1G save and exit
+
+how you have to update systemd that you have create a new conf file 
+
+command -> systemclt daemon-reload 
+
+and restart the httpd service also 
+command -> systemctl restart httpd 
+
+make grep command case insencetive 
+
+grep -i 
+
+pstree
+
+systemd-delta
+
+
+
+
+
 
 
 
