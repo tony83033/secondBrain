@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/GENAI/Prompts/coFounderPrompts.md",
+                "file": "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coFounderPrompts"
+              "title": "REACT 19 RELEASE"
             }
           }
         ],
@@ -300,13 +300,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eff562f0ccc2a8b4",
+  "active": "6f165b03e74d9984",
   "lastOpenFiles": [
+    "secondBrain/GENAI/Prompts/coFounderPrompts.md",
+    "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
+    "secondBrain/WebDev/MERN/REACT",
+    "secondBrain/WebDev/MERN",
+    "secondBrain/WebDev",
     "secondBrain/GENAI/Prompts",
     "secondBrain/GENAI/random resource.md",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/Linux/Unit Files of different types.md",
-    "secondBrain/GENAI/Prompts/coFounderPrompts.md",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
     "secondBrain/Linux/CPU.md",
     "secondBrain/DevOps/Docker/docker.md",
