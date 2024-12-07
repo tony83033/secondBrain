@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/Docker/docker.md",
+                "file": "Unit Files of different types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "Unit Files of different types"
             }
           }
         ],
@@ -300,12 +300,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eff562f0ccc2a8b4",
+  "active": "6f165b03e74d9984",
   "lastOpenFiles": [
-    "Unit Files of different types.md",
-    "secondBrain/DevOps/Docker/docker.md",
-    "secondBrain/DevOps/Docker",
     "secondBrain/Linux/CPU.md",
+    "secondBrain/DevOps/Docker/docker.md",
+    "Unit Files of different types.md",
+    "secondBrain/DevOps/Docker",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/Linux/Systemd Cgroup.md",
     "Untitled.md",
