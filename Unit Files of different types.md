@@ -28,4 +28,7 @@ command -> updatedb
 systemd-run -p BLOCKIOWeighth=10 
 
 
+command -> taskset  -p [pid]  -> this command is similer to tuna command 
+
+
 
