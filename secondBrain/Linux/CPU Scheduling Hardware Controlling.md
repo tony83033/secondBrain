@@ -48,7 +48,10 @@ dd if=/dev/dero of=/dev/null -> stress testing
 
 control time sharing in cpu using cgroup
 
-command -> vmstat 1
+command -> vmstat 
+comand -> yum install mpstat
+
+mpstat -P All
 
 
 
