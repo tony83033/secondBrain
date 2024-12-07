@@ -30,5 +30,7 @@ systemd-run -p BLOCKIOWeighth=10
 
 command -> taskset  -p [pid]  -> this command is similer to tuna command 
 
+command -> taskset -c 1 date -> date command will run only on cpu 1 
+
 
 
