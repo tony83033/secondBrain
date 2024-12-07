@@ -46,6 +46,12 @@ dd if=/dev/dero of=/dev/null -> stress testing
 26:00
 
 
+control time sharing in cpu using cgroup
+
+command -> vmstat 1
+
+
+
 
 =
 
