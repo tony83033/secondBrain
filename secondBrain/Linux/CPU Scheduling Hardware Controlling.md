@@ -53,9 +53,13 @@ comand -> yum install mpstat
 
 mpstat -P All
 
+confFile sudo vi /etc/systemd/system.conf -> common or default seeting for systemd 
 
 
+yum install perf 
 
+sudo peft sched record --sleep 20 
+chrt -l -> list all the avaliable sheduling algo in linux
 =
 
 ==========================================
