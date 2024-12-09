@@ -6,5 +6,6 @@
  3) glhf.chat , -> very usefull, paist hugging face model url and start using it
 
 4) search with Alisia , , and open search model 
+5) https://github.com/X-PLUG/mPLUG-DocOwl -> a very good ocr open source by alibaba
 
 

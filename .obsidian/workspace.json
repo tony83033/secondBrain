@@ -137,10 +137,14 @@
             "id": "6f165b03e74d9984",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "glue stack"
             }
           }
         ],
@@ -298,9 +302,16 @@
   },
   "active": "6f165b03e74d9984",
   "lastOpenFiles": [
-    "secondBrain/Finance/Finance MasterClass.md",
-    "secondBrain/Finance/Finance Masterclass Notes.pdf",
+    "secondBrain/GENAI/Prompts/coad with harry prompts.md",
+    "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
+    "secondBrain/WebDev/MERN/REACT/ReactNative",
+    "Pasted image 20241209120331.png",
+    "secondBrain/bucketList/Tech Bucket List.md",
+    "secondBrain/GENAI/random resource.md",
+    "secondBrain/bucketList",
     "2024-12-08.md",
+    "secondBrain/Finance/Finance Masterclass Notes.pdf",
+    "secondBrain/Finance/Finance MasterClass.md",
     "secondBrain/Finance",
     "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
     "secondBrain/GENAI/Prompts/coFounderPrompts.md",
@@ -308,7 +319,6 @@
     "secondBrain/WebDev/MERN",
     "secondBrain/WebDev",
     "secondBrain/GENAI/Prompts",
-    "secondBrain/GENAI/random resource.md",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/Linux/Unit Files of different types.md",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
@@ -320,8 +330,6 @@
     "secondBrain/Linux/access controll.md",
     "secondBrain/DevOps",
     "Untitled.canvas",
-    "secondBrain/Linux",
-    "secondBrain/GENAI/Prompts",
     "secondBrain/2024-11-26.md",
     "secondBrain/test.canvas",
     "secondBrain/Welcome.md",
