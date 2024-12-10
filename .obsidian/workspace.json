@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 265.5
   },
   "right": {
     "id": "920864cb262d2824",
@@ -302,9 +302,11 @@
   },
   "active": "6f165b03e74d9984",
   "lastOpenFiles": [
-    "secondBrain/Linux/Linux Assistance.pdf",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
     "secondBrain/Linux/CPU.md",
+    "secondBrain/Linux/Linux Assistance.pdf",
+    "secondBrain/Linux/Unit Files of different types.md",
+    "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/Linux/access controll.md",
     "secondBrain/bucketList/Tech Bucket List.md",
@@ -324,12 +326,9 @@
     "secondBrain/WebDev/MERN",
     "secondBrain/WebDev",
     "secondBrain/GENAI/Prompts",
-    "secondBrain/Linux/Unit Files of different types.md",
     "secondBrain/DevOps/Docker/docker.md",
     "secondBrain/DevOps/Docker",
-    "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/DevOps/CKS.md",
-    "secondBrain/DevOps",
     "Untitled.canvas",
     "secondBrain/2024-11-26.md",
     "secondBrain/test.canvas",
