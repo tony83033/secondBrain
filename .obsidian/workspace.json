@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
+                "file": "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glue stack"
+              "title": "CPU Scheduling Hardware Controlling"
             }
           }
         ],
@@ -302,11 +302,14 @@
   },
   "active": "6f165b03e74d9984",
   "lastOpenFiles": [
-    "secondBrain/GENAI/Prompts/coad with harry prompts.md",
+    "secondBrain/Linux/Systemcall strace Auditctl.md",
+    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
+    "secondBrain/Linux/access controll.md",
+    "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
+    "secondBrain/GENAI/Prompts/coad with harry prompts.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative",
     "Pasted image 20241209120331.png",
-    "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/GENAI/random resource.md",
     "secondBrain/bucketList",
     "2024-12-08.md",
@@ -319,15 +322,12 @@
     "secondBrain/WebDev/MERN",
     "secondBrain/WebDev",
     "secondBrain/GENAI/Prompts",
-    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/Linux/Unit Files of different types.md",
-    "secondBrain/Linux/Systemcall strace Auditctl.md",
     "secondBrain/Linux/CPU.md",
     "secondBrain/DevOps/Docker/docker.md",
     "secondBrain/DevOps/Docker",
     "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/DevOps/CKS.md",
-    "secondBrain/Linux/access controll.md",
     "secondBrain/DevOps",
     "Untitled.canvas",
     "secondBrain/2024-11-26.md",
