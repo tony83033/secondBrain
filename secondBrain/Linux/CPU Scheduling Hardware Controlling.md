@@ -29,7 +29,7 @@ vim /proc/cpuinfo -> inside this foleder we have alot of subdir one of is cpu0, 
 
 vi /cpu1/online  
 
-command -> nproc
+command -> nproc -> so number of avaliable processing units core
 
 
 13:07 to 19:26 cut -> (redhat anunsiment)
@@ -58,7 +58,7 @@ confFile sudo vi /etc/systemd/system.conf -> common or default seeting for syste
 
 yum install perf 
 
-sudo peft sched record --sleep 20 
+sudo perf sched record --sleep 20 
 chrt -l -> list all the avaliable sheduling algo in linux
 =
 
