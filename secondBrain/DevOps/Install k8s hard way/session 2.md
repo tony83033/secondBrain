@@ -69,4 +69,37 @@ we need to tell the crio that don't manage networking let k8s handle all the net
 
 kubectl delete all --all
 
+Install calico
+
+curl https://raw.githubusercontent.com/projectcalico/calico/master/manifests/calico.yaml
+it will download a calico.yaml file 
+
+
+# Auto-detect the BGP IP address.  (BACKGROUPND GATWAY PROTOCOL)
+            - name: IP
+              value: "autodetect"
+            - name: IP_AUTODETECTION_METHOD
+              value: "interface=eth0"
+
+kubectl apply -f calico.yaml
+
+install metrics server 
+run these two command on control plane
+
+kubectl apply -f https://raw.githubusercontent.com/techiescamp/kubeadm-scripts/main/manifests/metrics-server.yaml
+kubectl top nodes
+
+
+===============================================
+expose the deployment
+
+============================
+setup kubectl on client 
+
+cd /etc/kubernetes/ -> admin.conf
+
+in mykueset.txt replace , private ip to public ip   server: http://ip:port
+
+kubectl get pods -kubeconfig mykubeset.txt
+
 
