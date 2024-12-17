@@ -151,13 +151,14 @@
             "id": "184a008e816700b0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
+                "file": "stockMarket/algoTrading/open algo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
+              "icon": "lucide-file",
+              "title": "open algo"
             }
           }
         ],
@@ -313,8 +314,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9051ea734d8a9f1",
+  "active": "184a008e816700b0",
   "lastOpenFiles": [
+    "secondBrain/bucketList/Tech Bucket List.md",
+    "stockMarket/algoTrading/open algo.md",
+    "stockMarket/algoTrading",
+    "stockMarket",
     "conflict-files-obsidian-git.md",
     "Pasted image 20241209120331.png",
     "2024-12-08.md",
@@ -330,7 +335,6 @@
     "secondBrain/Linux/Unit Files of different types.md",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/Linux/access controll.md",
-    "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
     "secondBrain/GENAI/Prompts/coad with harry prompts.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative",
@@ -342,8 +346,6 @@
     "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
     "secondBrain/GENAI/Prompts/coFounderPrompts.md",
     "secondBrain/WebDev/MERN/REACT",
-    "secondBrain/WebDev/MERN",
-    "secondBrain/WebDev",
     "secondBrain/DevOps/Docker/docker.md",
     "secondBrain/DevOps/CKS.md",
     "Untitled.canvas",
