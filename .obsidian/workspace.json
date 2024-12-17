@@ -151,14 +151,13 @@
             "id": "184a008e816700b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
-                "mode": "source",
-                "source": false
+                "file": "conflict-files-obsidian-git.md",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "Paddy Upton"
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
             }
           }
         ],
@@ -314,13 +313,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "184a008e816700b0",
+  "active": "a9051ea734d8a9f1",
   "lastOpenFiles": [
-    "secondBrain/DevOps/Install k8s hard way/session 2.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20241209120331.png",
+    "2024-12-08.md",
     "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
+    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/bucketList/PersonBucketList",
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
-    "conflict-files-obsidian-git.md",
     "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/DevOps/Install k8s hard way",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
@@ -333,10 +334,8 @@
     "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
     "secondBrain/GENAI/Prompts/coad with harry prompts.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative",
-    "Pasted image 20241209120331.png",
     "secondBrain/GENAI/random resource.md",
     "secondBrain/bucketList",
-    "2024-12-08.md",
     "secondBrain/Finance/Finance Masterclass Notes.pdf",
     "secondBrain/Finance/Finance MasterClass.md",
     "secondBrain/Finance",
