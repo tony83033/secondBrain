@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/Install k8s hard way/session 2.md",
+                "file": "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 2"
+              "title": "Paddy Upton"
             }
           }
         ],
@@ -316,10 +316,12 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
+    "secondBrain/DevOps/Install k8s hard way/session 2.md",
+    "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
+    "secondBrain/bucketList/PersonBucketList",
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
     "conflict-files-obsidian-git.md",
     "secondBrain/Linux/Systemd Cgroup.md",
-    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/DevOps/Install k8s hard way",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
     "secondBrain/Linux/CPU.md",
@@ -343,7 +345,6 @@
     "secondBrain/WebDev/MERN/REACT",
     "secondBrain/WebDev/MERN",
     "secondBrain/WebDev",
-    "secondBrain/GENAI/Prompts",
     "secondBrain/DevOps/Docker/docker.md",
     "secondBrain/DevOps/CKS.md",
     "Untitled.canvas",
