@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/GENAI/ollama/context.md",
+                "file": "secondBrain/GENAI/ollama/custom ollama from pr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "context"
+              "title": "custom ollama from pr"
             }
           }
         ],
@@ -316,8 +316,9 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
-    "secondBrain/GENAI/ollama/web serarch.md",
     "secondBrain/GENAI/ollama/context.md",
+    "secondBrain/GENAI/ollama/custom ollama from pr.md",
+    "secondBrain/GENAI/ollama/web serarch.md",
     "secondBrain/GENAI/random resource.md",
     "secondBrain/GENAI/ollama",
     "stockMarket/algoTrading/open algo.md",
@@ -353,7 +354,6 @@
     "Untitled.canvas",
     "secondBrain/2024-11-26.md",
     "secondBrain/test.canvas",
-    "secondBrain/Welcome.md",
-    "secondBrain/test.md"
+    "secondBrain/Welcome.md"
   ]
 }
