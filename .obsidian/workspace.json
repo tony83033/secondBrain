@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/GENAI/ollama/custom model.md",
+                "file": "secondBrain/GENAI/ollama/templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "custom model"
+              "title": "templates"
             }
           }
         ],
@@ -316,8 +316,9 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
-    "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/ollama/custom model.md",
+    "secondBrain/GENAI/ollama/templates.md",
+    "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/ollama/context.md",
     "secondBrain/GENAI/ollama/web serarch.md",
     "secondBrain/GENAI/random resource.md",
@@ -353,7 +354,6 @@
     "secondBrain/DevOps/Docker/docker.md",
     "secondBrain/DevOps/CKS.md",
     "Untitled.canvas",
-    "secondBrain/2024-11-26.md",
     "secondBrain/test.canvas"
   ]
 }
