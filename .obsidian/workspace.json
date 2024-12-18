@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/GENAI/ollama/templates.md",
+                "file": "secondBrain/DevOps/DevOps question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "templates"
+              "title": "DevOps question"
             }
           }
         ],
@@ -316,8 +316,9 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
-    "secondBrain/GENAI/ollama/custom model.md",
     "secondBrain/GENAI/ollama/templates.md",
+    "secondBrain/DevOps/DevOps question.md",
+    "secondBrain/GENAI/ollama/custom model.md",
     "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/ollama/context.md",
     "secondBrain/GENAI/ollama/web serarch.md",
@@ -352,7 +353,6 @@
     "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
     "secondBrain/GENAI/Prompts/coFounderPrompts.md",
     "secondBrain/DevOps/Docker/docker.md",
-    "secondBrain/DevOps/CKS.md",
     "Untitled.canvas",
     "secondBrain/test.canvas"
   ]
