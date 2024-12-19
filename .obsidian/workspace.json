@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/Install k8s hard way/session 2.md",
+                "file": "secondBrain/random/doc siginingi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 2"
+              "title": "doc siginingi"
             }
           }
         ],
@@ -317,6 +317,8 @@
   "active": "184a008e816700b0",
   "lastOpenFiles": [
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
+    "secondBrain/random/doc siginingi.md",
+    "secondBrain/random",
     "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "stockMarket/algoTrading/open algo.md",
     "secondBrain/DevOps/CKS.md",
@@ -350,9 +352,7 @@
     "secondBrain/bucketList",
     "secondBrain/Finance/Finance Masterclass Notes.pdf",
     "secondBrain/Finance/Finance MasterClass.md",
-    "secondBrain/Finance",
     "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
-    "secondBrain/GENAI/Prompts/coFounderPrompts.md",
     "Untitled.canvas",
     "secondBrain/test.canvas"
   ]
