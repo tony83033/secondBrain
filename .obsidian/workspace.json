@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stockMarket/algoTrading/open algo.md",
+                "file": "secondBrain/DevOps/Install k8s hard way/session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "open algo"
+              "title": "session 2"
             }
           }
         ],
@@ -316,6 +316,9 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
+    "secondBrain/DevOps/Install k8s hard way/session 1.md",
+    "secondBrain/DevOps/Install k8s hard way/session 2.md",
+    "stockMarket/algoTrading/open algo.md",
     "secondBrain/DevOps/CKS.md",
     "secondBrain/DevOps/DevOps question.md",
     "secondBrain/GENAI/ollama/templates.md",
@@ -325,7 +328,6 @@
     "secondBrain/GENAI/ollama/web serarch.md",
     "secondBrain/GENAI/random resource.md",
     "secondBrain/GENAI/ollama",
-    "stockMarket/algoTrading/open algo.md",
     "secondBrain/bucketList/Tech Bucket List.md",
     "stockMarket/algoTrading",
     "stockMarket",
@@ -333,9 +335,7 @@
     "Pasted image 20241209120331.png",
     "2024-12-08.md",
     "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
-    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/bucketList/PersonBucketList",
-    "secondBrain/DevOps/Install k8s hard way/session 1.md",
     "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/DevOps/Install k8s hard way",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
