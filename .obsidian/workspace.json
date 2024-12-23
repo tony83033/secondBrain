@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/Install k8s hard way/session 2.md",
+                "file": "secondBrain/bucketList/Tech Bucket List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 2"
+              "title": "Tech Bucket List"
             }
           }
         ],
@@ -316,6 +316,8 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
+    "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
+    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
     "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/ollama/templates.md",
@@ -324,7 +326,6 @@
     "secondBrain/GENAI/ollama/rag in ollama.md",
     "secondBrain/random/doc siginingi.md",
     "secondBrain/random",
-    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/DevOps/CKS.md",
     "secondBrain/DevOps/DevOps question.md",
     "secondBrain/GENAI/ollama/custom model.md",
@@ -338,7 +339,6 @@
     "conflict-files-obsidian-git.md",
     "Pasted image 20241209120331.png",
     "2024-12-08.md",
-    "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
     "secondBrain/bucketList/PersonBucketList",
     "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/DevOps/Install k8s hard way",
