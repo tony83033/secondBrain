@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/bucketList/Tech Bucket List.md",
+                "file": "secondBrain/DevOps/Install k8s hard way/session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Bucket List"
+              "title": "session 1"
             }
           }
         ],
@@ -316,6 +316,7 @@
   },
   "active": "184a008e816700b0",
   "lastOpenFiles": [
+    "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
     "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
@@ -333,7 +334,6 @@
     "secondBrain/GENAI/ollama/web serarch.md",
     "secondBrain/GENAI/random resource.md",
     "secondBrain/GENAI/ollama",
-    "secondBrain/bucketList/Tech Bucket List.md",
     "stockMarket/algoTrading",
     "stockMarket",
     "conflict-files-obsidian-git.md",
