@@ -41,128 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/CKS.md",
+                "file": "2024-12-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CKS"
-            }
-          },
-          {
-            "id": "17e62e12bb43b055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/Systemcall strace Auditctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systemcall strace Auditctl"
-            }
-          },
-          {
-            "id": "85165fb3dabfc40b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/Systemd Cgroup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systemd Cgroup"
-            }
-          },
-          {
-            "id": "c02e9af51a7981ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU Scheduling Hardware Controlling"
-            }
-          },
-          {
-            "id": "2ef319e124df1f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU Scheduling Hardware Controlling"
-            }
-          },
-          {
-            "id": "d65c66366e1a859b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU"
-            }
-          },
-          {
-            "id": "77e810b2356ea2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Files of different types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Files of different types"
-            }
-          },
-          {
-            "id": "6f165b03e74d9984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/Systemd Cgroup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systemd Cgroup"
-            }
-          },
-          {
-            "id": "184a008e816700b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/DevOps/Install k8s hard way/session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "session 1"
+              "title": "2024-12-08"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,20 +202,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "184a008e816700b0",
+  "active": "e8d073e142d01eaf",
   "lastOpenFiles": [
+    "stockMarket/algoTrading/open algo.md",
+    "secondBrain/DevOps/CKS.md",
+    "secondBrain/Linux/access controll.md",
+    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
+    "secondBrain/DevOps/Install k8s hard way/session 1.md",
     "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
     "secondBrain/DevOps/Install k8s hard way/session 2.md",
-    "secondBrain/DevOps/Install k8s hard way/session 1.md",
     "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/ollama/templates.md",
-    "stockMarket/algoTrading/open algo.md",
     "secondBrain/Finance/Finance MasterClass.md",
     "secondBrain/GENAI/ollama/rag in ollama.md",
     "secondBrain/random/doc siginingi.md",
     "secondBrain/random",
-    "secondBrain/DevOps/CKS.md",
     "secondBrain/DevOps/DevOps question.md",
     "secondBrain/GENAI/ollama/custom model.md",
     "secondBrain/GENAI/ollama/context.md",
@@ -346,8 +236,6 @@
     "secondBrain/Linux/CPU.md",
     "secondBrain/Linux/Linux Assistance.pdf",
     "secondBrain/Linux/Unit Files of different types.md",
-    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-    "secondBrain/Linux/access controll.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
     "secondBrain/GENAI/Prompts/coad with harry prompts.md",
     "secondBrain/WebDev/MERN/REACT/ReactNative",
