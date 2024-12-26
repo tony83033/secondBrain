@@ -7,5 +7,6 @@
 
 4) search with Alisia , , and open search model 
 5) https://github.com/X-PLUG/mPLUG-DocOwl -> a very good ocr open source by alibaba
+https://www.youtube.com/watch?v=QebLDdv13yg
 
 
