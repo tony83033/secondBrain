@@ -102,4 +102,6 @@ in mykueset.txt replace , private ip to public ip   server: http://ip:port
 
 kubectl get pods -kubeconfig mykubeset.txt
 
+kubectl get pods -kubeconfig mykubeset.txt --insecure-skip-tls-verify -> for bypass encription par ip bases
+
 
