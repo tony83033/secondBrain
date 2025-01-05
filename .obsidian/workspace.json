@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/Install k8s hard way/session 2.md",
+                "file": "secondBrain/WebDev/MERN/Project/Imagekit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 2"
+              "title": "Imagekit"
             }
           }
         ],
@@ -232,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200
   },
   "right": {
     "id": "920864cb262d2824",
@@ -328,9 +328,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9051ea734d8a9f1",
+  "active": "d33cfc0391db0aaa",
   "lastOpenFiles": [
+    "secondBrain/WebDev/MERN/Project/NextAuth.md",
+    "secondBrain/WebDev/MERN/Project/Imagekit.md",
+    "Pasted image 20250106010207.png",
+    "secondBrain/GENAI/ollama/ollama on docker.md",
+    "secondBrain/WebDev/MERN/Project",
+    "secondBrain/GENAI/projectBlogWriter/project blog writer.md",
+    "secondBrain/WebDev/serverless/serverless.md",
+    "secondBrain/GENAI/projectBlogWriter",
+    "Pasted image 20241209120331.png",
+    "secondBrain/WebDev/serverless",
+    "2024-12-08.md",
+    "secondBrain/bucketList/Tech Bucket List.md",
+    "secondBrain/GENAI/random resource.md",
     "stockMarket/algoTrading/open algo.md",
+    "secondBrain/Linux/access controll.md",
+    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "stockMarket/algoTrading",
     "stockMarket",
     "secondBrain/random/doc siginingi.md",
@@ -346,7 +361,6 @@
     "secondBrain/GENAI/ollama",
     "secondBrain/DevOps/DevOps question.md",
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
-    "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
     "secondBrain/DevOps/Install k8s hard way",
     "secondBrain/Linux/Linux Assistance.pdf",
@@ -354,19 +368,6 @@
     "secondBrain/Linux/Systemcall strace Auditctl.md",
     "secondBrain/Linux/CPU.md",
     "secondBrain/Linux/Unit Files of different types.md",
-    "secondBrain/Linux/access controll.md",
-    "secondBrain/bucketList/Tech Bucket List.md",
-    "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
-    "secondBrain/GENAI/Prompts/coad with harry prompts.md",
-    "secondBrain/WebDev/MERN/REACT/ReactNative",
-    "Pasted image 20241209120331.png",
-    "secondBrain/GENAI/random resource.md",
-    "secondBrain/bucketList",
-    "2024-12-08.md",
-    "secondBrain/Finance/Finance Masterclass Notes.pdf",
-    "secondBrain/Finance/Finance MasterClass.md",
-    "secondBrain/WebDev/MERN/REACT/REACT 19 RELEASE.md",
-    "secondBrain/GENAI/Prompts/coFounderPrompts.md",
     "Untitled.canvas",
     "secondBrain/test.canvas"
   ]
