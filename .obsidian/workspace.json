@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/WebDev/MERN/Project/Imagekit.md",
+                "file": "secondBrain/personalCare/cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imagekit"
+              "title": "cost"
             }
           }
         ],
@@ -328,8 +328,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d33cfc0391db0aaa",
+  "active": "eff562f0ccc2a8b4",
   "lastOpenFiles": [
+    "secondBrain/freelance/freelance.md",
+    "secondBrain/personalCare/cost.md",
+    "secondBrain/personalCare",
+    "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
+    "secondBrain/freelance",
     "secondBrain/WebDev/MERN/Project/NextAuth.md",
     "secondBrain/WebDev/MERN/Project/Imagekit.md",
     "Pasted image 20250106010207.png",
@@ -362,12 +367,7 @@
     "secondBrain/DevOps/DevOps question.md",
     "secondBrain/DevOps/Install k8s hard way/session 1.md",
     "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-    "secondBrain/DevOps/Install k8s hard way",
-    "secondBrain/Linux/Linux Assistance.pdf",
     "secondBrain/Linux/Systemd Cgroup.md",
-    "secondBrain/Linux/Systemcall strace Auditctl.md",
-    "secondBrain/Linux/CPU.md",
-    "secondBrain/Linux/Unit Files of different types.md",
     "Untitled.canvas",
     "secondBrain/test.canvas"
   ]
