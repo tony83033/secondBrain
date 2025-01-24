@@ -13,6 +13,13 @@
 		[https://amzn.to/3UGpN2K](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhfNzBRXzZnQmYtSVpDMzBnbi1HVlp6VGlZUXxBQ3Jtc0ttUkVaWWRtbUJxc24zUi1Pd0NmYkt2TmVvV0ZvN2xIWWxVUGRWV0RUY1Fqa1NhWC14Z3BrdExOeF9rZzBsMTJuMG5va3h4OWhRS3R4UHloVU42cVB2TWZZYm92TWVQQldJNjNqcEhoSkd2amNzb1l3OA&q=https%3A%2F%2Famzn.to%2F3UGpN2K&v=_kHuBGn5yoQ)
 6) Rosemary Essential Oil for Hair Growth -> 385 rs
 		[https://mamaearth.oia.link/lf1yj](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWJHVGRDLXd4dm8tMGRSc3hNa0Y0T3ZxcE1BQXxBQ3Jtc0tuSDQzUHpzY3QtekRQWC12d0F1ZGRnaml6ZWRpSHVSRW1yUFprR1FjNXNac0t5SlpwaTlsMnp1bzdIbHBYbW52RHlhWlVNSjgyNmZHMkVadnhmRUtKVFFiQ3FXVEFDTENFeWVQUGVCd0VoU1NWY0MwWQ&q=https%3A%2F%2Fmamaearth.oia.link%2Flf1yj&v=_kHuBGn5yoQ)
+7) sun oil
+	   [https://shorturl.at/Aa9TV](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1FaUlJKXzk1YXE4RzU2WndodkszOGFRX3l6UXxBQ3Jtc0ttT1FYUEI1RXlicWNMV1FlakstT3hwenQwSFRtSVlfMVY2ZzB6OVVKLWVldzRBWFZXV2Z3UUFfcjdzVzkzOWFwM0VVUjZRcWt6bk5BYklWNHgxZ09Pc2NsbDJOQklIdE5BTEZEaDlPa2lka0E0STBwSQ&q=https%3A%2F%2Fshorturl.at%2FAa9TV&v=r-DIv65zHwY)
+ 8) oil 2
+		 [https://amzn.to/4gaStZ9](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbENwMm11S2RHQWlISlItZ3lFOU9IdzZBcWFkUXxBQ3Jtc0tuSVQ1ZUFpUXdma1p3N0piTEJxOTJxUUZmbVJ5TUNET1dJNFBoZ3hVZGFVdXROOVhpRlJ5RW5OaXJsVkZLaHZMdFM5dlBrUzAwOFZ4RGQtV3ZpMWljZ2FFeDdad0tGWGdzZjBydndGOEZOZ1hFd2hwZw&q=https%3A%2F%2Famzn.to%2F4gaStZ9&v=r-DIv65zHwY)
+		 
+
+		
 
 Total -> 1458
 
@@ -41,6 +48,15 @@ room + food + personal care + GYM + Protein + Small Daily Expenses = 19000
 
 Protein Power - > 3000
 [https://nbay.cc/39sHuJC](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbThEcnlDTHU4Y3M1Z1lobnUzYUxsYVU5dkdrd3xBQ3Jtc0tuZDN6eWRtR2szWGlLNDRqM3RzbHNJVHJlSk5renRQaWVXS1lfQ2w3THBjLTgtOWVueXVvZTJTS21wMW4yVHk1eDZUendXN3g1V015blplUmZ3STRVd3hpSGxIVjZOWDdUczVka0lwRFltWWtPZjI2TQ&q=https%3A%2F%2Fnbay.cc%2F39sHuJC&v=d1fdcp4wDhU)
+
+https://www.guardian.in/products/gnc-pro-performance-100-whey-protein?variant=46240538853607
+
+
+https://www.shop.philips.co.in/oneblade/qp1624-10
+
+https://manmatters.com/dp/p-hair-follicle-stimulator/591102
+
+
 
 
 

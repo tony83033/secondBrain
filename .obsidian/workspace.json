@@ -315,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,10 +328,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eff562f0ccc2a8b4",
+  "active": "d33cfc0391db0aaa",
   "lastOpenFiles": [
-    "secondBrain/freelance/freelance.md",
+    "secondBrain/GENAI/togatherAi/4c542abf0a25a6db2f63aa265d7608f3858b69376143a18f48f09286c3d82c28.md",
     "secondBrain/personalCare/cost.md",
+    "secondBrain/GENAI/togatherAi",
+    "secondBrain/Linux/Systemd Cgroup.md",
+    "secondBrain/Linux/Systemcall strace Auditctl.md",
+    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
+    "secondBrain/Linux/Linux Assistance.pdf",
+    "secondBrain/Linux/CPU.md",
+    "secondBrain/Linux/access controll.md",
+    "stockMarket/algoTrading/open algo.md",
+    "secondBrain/random/doc siginingi.md",
+    "secondBrain/DevOps/DevOps question.md",
+    "secondBrain/DevOps/Docker/docker.md",
+    "secondBrain/DevOps/Install k8s hard way/session 1.md",
+    "secondBrain/bucketList/Tech Bucket List.md",
+    "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
+    "secondBrain/freelance/freelance.md",
     "secondBrain/personalCare",
     "secondBrain/WebDev/MERN/REACT/ReactNative/glue stack.md",
     "secondBrain/freelance",
@@ -346,28 +361,13 @@
     "Pasted image 20241209120331.png",
     "secondBrain/WebDev/serverless",
     "2024-12-08.md",
-    "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/GENAI/random resource.md",
-    "stockMarket/algoTrading/open algo.md",
-    "secondBrain/Linux/access controll.md",
     "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "stockMarket/algoTrading",
     "stockMarket",
-    "secondBrain/random/doc siginingi.md",
     "secondBrain/random",
-    "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
-    "secondBrain/bucketList/PersonBucketList",
     "secondBrain/GENAI/ollama/web serarch.md",
     "secondBrain/GENAI/ollama/templates.md",
-    "secondBrain/GENAI/ollama/rag in ollama.md",
-    "secondBrain/GENAI/ollama/custom ollama from pr.md",
-    "secondBrain/GENAI/ollama/custom model.md",
-    "secondBrain/GENAI/ollama/context.md",
-    "secondBrain/GENAI/ollama",
-    "secondBrain/DevOps/DevOps question.md",
-    "secondBrain/DevOps/Install k8s hard way/session 1.md",
-    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-    "secondBrain/Linux/Systemd Cgroup.md",
     "Untitled.canvas",
     "secondBrain/test.canvas"
   ]

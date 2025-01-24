@@ -50,6 +50,8 @@ To change group of a file or folder
 
 command -> chgrp <groupname> ./project -> project is a dir
 
+chgrp is used to change group ownership of a file or dir
+
 ========================================
 To change the owner of a folder or file use this command
 command -> chown <username> ./project  -> project is a dir 

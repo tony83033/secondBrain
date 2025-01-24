@@ -35,4 +35,4 @@ commad -> auditctl -a always,exit -s write -s bind -l mmypasswd -F b64
 
 -a always, exit -> always watch till exit 
 
--F specy articture of system 
+-F specy particture of system 
