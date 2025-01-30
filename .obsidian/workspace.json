@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/personalCare/cost.md",
+                "file": "secondBrain/bucketList/Tech Bucket List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cost"
+              "title": "Tech Bucket List"
             }
           }
         ],
@@ -330,8 +330,11 @@
   },
   "active": "d33cfc0391db0aaa",
   "lastOpenFiles": [
-    "secondBrain/GENAI/togatherAi/4c542abf0a25a6db2f63aa265d7608f3858b69376143a18f48f09286c3d82c28.md",
+    "secondBrain/WebDev/MERN/NodeBackend/Init a backend in node js with ts.md",
     "secondBrain/personalCare/cost.md",
+    "secondBrain/WebDev/MERN/NodeBackend",
+    "secondBrain/GENAI/togatherAi/4c542abf0a25a6db2f63aa265d7608f3858b69376143a18f48f09286c3d82c28.md",
+    "secondBrain/GENAI/random resource.md",
     "secondBrain/GENAI/togatherAi",
     "secondBrain/Linux/Systemd Cgroup.md",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
@@ -361,13 +364,10 @@
     "Pasted image 20241209120331.png",
     "secondBrain/WebDev/serverless",
     "2024-12-08.md",
-    "secondBrain/GENAI/random resource.md",
     "secondBrain/DevOps/Install k8s hard way/session 2.md",
     "stockMarket/algoTrading",
     "stockMarket",
-    "secondBrain/random",
     "secondBrain/GENAI/ollama/web serarch.md",
-    "secondBrain/GENAI/ollama/templates.md",
     "Untitled.canvas",
     "secondBrain/test.canvas"
   ]

@@ -19,7 +19,12 @@
 		 [https://amzn.to/4gaStZ9](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbENwMm11S2RHQWlISlItZ3lFOU9IdzZBcWFkUXxBQ3Jtc0tuSVQ1ZUFpUXdma1p3N0piTEJxOTJxUUZmbVJ5TUNET1dJNFBoZ3hVZGFVdXROOVhpRlJ5RW5OaXJsVkZLaHZMdFM5dlBrUzAwOFZ4RGQtV3ZpMWljZ2FFeDdad0tGWGdzZjBydndGOEZOZ1hFd2hwZw&q=https%3A%2F%2Famzn.to%2F4gaStZ9&v=r-DIv65zHwY)
  9) old for hair lose
 		 [https://amzn.to/42pUL3u](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa09jOTJkTG1sbjhDNDZ0eEdGZFcyQVY2QVl0QXxBQ3Jtc0tuYS1kdDdsenpTVDI4SzZrVmgzU2lIQ1J3cVpwcGc1NUJzMjBBd3lGYTQ5blNTQmdDcGhOX0EyOHo0MllHa3AtV0pfRFhtMl9WUHplS1NCdGs0MVhqVGU5T0NwYlR2OWhpaEpoVjRaNDhVd3BJSzJWbw&q=https%3A%2F%2Famzn.to%2F42pUL3u&v=r-DIv65zHwY)
-		 
+10) reetha shampo
+			[https://amzn.to/2U7ZhwV](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHNhOXNNYWp3MGdMbUh4SGZUMTM5bHBhNFZNZ3xBQ3Jtc0tueENEMGx5OVM1cEp2aFBkNUlGR28zRGozc1pkamFNaHhoRGZ5ZWlTRy1kUUV1WlluVHpseGgyRmp0QUREV1E2cFpYV2dlVG1XZTN2YjEtY1FZaWIzRF9TVWpwNHVWSkhLcTlPV1dxWVV4ZFhYcGVlaw&q=https%3A%2F%2Famzn.to%2F2U7ZhwV&v=r-DIv65zHwY)
+11) powder shampo
+		[https://amzn.to/3h1mDB6](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTI0U2toMDJYcERXM29zckdXMnRPcjVKX2Jxd3xBQ3Jtc0trS2ctZHB0SEJuMUYtcXcyYVNBWWtpNlJYdjljckYyZmREOExoWU5qeEFXcnY0SU1wdEpwMUphamQtWkVoVm9KaG9zSzRYZTBtMVVtOVVPT21WYy1VSzdSWVRzVnQwS1BRWU13dkFNLUV2UVRzRGdBMA&q=https%3A%2F%2Famzn.to%2F3h1mDB6&v=r-DIv65zHwY)
+	
+	
 
 		
 
@@ -59,6 +64,60 @@ https://www.shop.philips.co.in/oneblade/qp1624-10
 https://manmatters.com/dp/p-hair-follicle-stimulator/591102
 
 
+======================================
+
+Formal section
+
+1) tuck in belt
+2) use belt and shoes  with same color
+3) collar pin
+trousers vs chinos
+pants
+1) black
+2) light gray
+3) Navi blue
+4) beige pant
+
+combo = Beige pant + black shirt, Beige pang+ olive green, Beige pant + white shirt, Beige pant + navi blue
+
+combo2 = black pant + maroon = best for brown skinn for party or function
+		black pang + light gray shirt
+	      black pant + brown shirt
+	      black pant + olive green
+combo3
+		light gray  pant + blue shirt  = formal as well as casual
+		 light gray pant + black shirt 
+		 light gray pant + dark brown
+combo4
+			navi blue pant + white shirt
+			 navi blue pant + light gray
+			 navi blue pant + sky blue shirt
+
+combo4
+		tab brown pant + white shirt
+		 khaki pant 
+
+====================================================
+
+shue 
+white pocket squire , never use pocket squire with a tie
+
+one basic black tie, with a tie bar
+
+Navi blue suit
+charcole gray suit
+black  suit
+Light gray suit
+Tan (Light brown) suit
+
+
+white shirt 
+light gray shirt
+light pink shirt
+light blue shirt
+black shirt
+		  
+https://tailorjunction.com/
 
 
 
