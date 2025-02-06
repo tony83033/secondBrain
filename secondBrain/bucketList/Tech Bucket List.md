@@ -12,3 +12,8 @@ https://www.blackhatworld.com/forums/
 https://www.npmjs.com/package/bento-components
 
 https://github.com/anbrela/react-bento
+
+https://www.youtube.com/watch?v=e5z4tM2jgnc -> youtube summery
+
+
+https://github.com/volcengine/verl -> framework for RL for LLM 
