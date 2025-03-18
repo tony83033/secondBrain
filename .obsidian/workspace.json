@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/oracal/freee vps.md",
+                "file": "secondBrain/DevOps/EKS/CLASS 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "freee vps"
+              "title": "CLASS 1"
             }
           }
         ],
@@ -373,12 +373,14 @@
   },
   "active": "e54e8658d8d37d58",
   "lastOpenFiles": [
+    "secondBrain/DevOps/CKS.md",
+    "secondBrain/DevOps/EKS/CLASS 1.md",
+    "secondBrain/DevOps/EKS",
+    "secondBrain/DevOps/oracal/freee vps.md",
     "secondBrain/bucketList/Tech Bucket List.md",
     "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
-    "secondBrain/DevOps/oracal/freee vps.md",
     "secondBrain/DevOps/Docker/docker.md",
     "secondBrain/DevOps/DevOps question.md",
-    "secondBrain/DevOps/CKS.md",
     "secondBrain/GENAI/ollama/templates.md",
     "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/togatherAi/4c542abf0a25a6db2f63aa265d7608f3858b69376143a18f48f09286c3d82c28.md",
@@ -404,14 +406,12 @@
     "secondBrain/Linux/Linux Assistance.pdf",
     "secondBrain/song",
     "secondBrain/DevOps/oracal",
-    "secondBrain/WebDev/MERN/Project/Imagekit.md",
     "Pasted image 20250106010207.png",
     "secondBrain/GENAI/Andrej Karpathy",
     "secondBrain/ReactNativeProject",
     "secondBrain/WebDev/MERN/NodeBackend",
     "secondBrain/GENAI/togatherAi",
     "secondBrain/personalCare",
-    "secondBrain/freelance",
     "secondBrain/test.canvas"
   ]
 }
