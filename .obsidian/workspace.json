@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/DevOps/CKS.md",
+                "file": "secondBrain/DevOps/EKS/CLASS 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CKS"
+              "title": "CLASS 1"
             }
           }
         ]
@@ -187,13 +187,14 @@
   },
   "active": "1ade0cf8a1e701f6",
   "lastOpenFiles": [
+    "secondBrain/DevOps/DevOps question.md",
+    "2025-03-21.md",
+    "Untitled 1.canvas",
+    "secondBrain/DevOps/CKS.md",
     "secondBrain/DevOps/EKS/CLASS 1.md",
     "secondBrain/Finance/Finance Masterclass Notes.pdf",
     "secondBrain/Finance/Finance MasterClass.md",
-    "secondBrain/DevOps/DevOps question.md",
-    "2025-03-21.md",
     "secondBrain/DevOps/oracal/freee vps.md",
-    "secondBrain/DevOps/CKS.md",
     "secondBrain/Linux/access controll.md",
     "secondBrain/Linux/Systemcall strace Auditctl.md",
     "secondBrain/Linux/Systemd Cgroup.md",
