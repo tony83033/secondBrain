@@ -6,7 +6,7 @@ Healthcare 13-14%
 House 10% 
 Gold 10%
 
-Goverment only show (CPI)
+Goverment only show (CPI) 
 
 
 
