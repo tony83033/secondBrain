@@ -4,221 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cba5905a5a0713",
+        "id": "e0095fa7f369d07d",
         "type": "tabs",
         "children": [
           {
-            "id": "80676aa78f6ebc5e",
+            "id": "1ade0cf8a1e701f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Linux/access controll.md",
+                "file": "secondBrain/Finance/Finance MasterClass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "access controll"
-            }
-          },
-          {
-            "id": "6a7c816bb67d3310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/access controll.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "access controll"
-            }
-          },
-          {
-            "id": "e8d073e142d01eaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/DevOps/CKS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CKS"
-            }
-          },
-          {
-            "id": "17e62e12bb43b055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/Systemcall strace Auditctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systemcall strace Auditctl"
-            }
-          },
-          {
-            "id": "85165fb3dabfc40b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/Systemd Cgroup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systemd Cgroup"
-            }
-          },
-          {
-            "id": "c02e9af51a7981ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU Scheduling Hardware Controlling"
-            }
-          },
-          {
-            "id": "2ef319e124df1f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU Scheduling Hardware Controlling"
-            }
-          },
-          {
-            "id": "d65c66366e1a859b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU"
-            }
-          },
-          {
-            "id": "77e810b2356ea2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Files of different types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Files of different types"
-            }
-          },
-          {
-            "id": "6f165b03e74d9984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CPU Scheduling Hardware Controlling"
-            }
-          },
-          {
-            "id": "bb2cebca249402b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/DevOps/Install k8s hard way/session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "session 1"
-            }
-          },
-          {
-            "id": "d33cfc0391db0aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/ReactNativeProject/changes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "changes"
-            }
-          },
-          {
-            "id": "7a265fc872c18202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/bucketList/Tech Bucket List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tech Bucket List"
-            }
-          },
-          {
-            "id": "e2b9f4ba01f56851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/GENAI/ollama/templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "templates"
-            }
-          },
-          {
-            "id": "e54e8658d8d37d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/DevOps/EKS/CLASS 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLASS 1"
+              "title": "Finance MasterClass"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "920864cb262d2824",
@@ -352,13 +155,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "24766d2b3330dbec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,17 +184,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e54e8658d8d37d58",
+  "active": "1ade0cf8a1e701f6",
   "lastOpenFiles": [
+    "secondBrain/DevOps/DevOps question.md",
+    "2025-03-21.md",
+    "secondBrain/DevOps/oracal/freee vps.md",
     "secondBrain/DevOps/CKS.md",
     "secondBrain/DevOps/EKS/CLASS 1.md",
-    "secondBrain/DevOps/EKS",
-    "secondBrain/DevOps/oracal/freee vps.md",
+    "secondBrain/Linux/access controll.md",
+    "secondBrain/Linux/Systemcall strace Auditctl.md",
+    "secondBrain/Linux/Systemd Cgroup.md",
+    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
+    "secondBrain/Linux/CPU.md",
+    "secondBrain/DevOps/Install k8s hard way/session 1.md",
+    "secondBrain/ReactNativeProject/changes.md",
     "secondBrain/bucketList/Tech Bucket List.md",
+    "secondBrain/GENAI/ollama/templates.md",
+    "secondBrain/DevOps/EKS",
     "secondBrain/bucketList/PersonBucketList/Paddy Upton.md",
     "secondBrain/DevOps/Docker/docker.md",
-    "secondBrain/DevOps/DevOps question.md",
-    "secondBrain/GENAI/ollama/templates.md",
     "secondBrain/GENAI/ollama/custom ollama from pr.md",
     "secondBrain/GENAI/togatherAi/4c542abf0a25a6db2f63aa265d7608f3858b69376143a18f48f09286c3d82c28.md",
     "secondBrain/GENAI/random resource.md",
@@ -394,15 +215,7 @@
     "secondBrain/WebDev/MERN/Project/NextAuth.md",
     "secondBrain/Finance/Finance MasterClass.md",
     "secondBrain/GENAI/ollama/context.md",
-    "secondBrain/WebDev/serverless/serverless.md",
-    "secondBrain/ReactNativeProject/changes.md",
     "Pasted image 20241209120331.png",
-    "secondBrain/freelance/freelance.md",
-    "secondBrain/WebDev/MERN/NodeBackend/Init a backend in node js with ts.md",
-    "secondBrain/Linux/CPU.md",
-    "secondBrain/Linux/CPU Scheduling Hardware Controlling.md",
-    "secondBrain/Linux/Systemcall strace Auditctl.md",
-    "secondBrain/Linux/Unit Files of different types.md",
     "secondBrain/Linux/Linux Assistance.pdf",
     "secondBrain/song",
     "secondBrain/DevOps/oracal",
